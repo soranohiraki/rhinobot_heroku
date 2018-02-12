@@ -1,8 +1,9 @@
-discord.py[voice]
 aiohttp
 websockets
 chardet
 youtube_dl
 pip
 cffi==1.6.0
+discord.py[voice] ~= 0.16.0
+colorlog
 opuslib
